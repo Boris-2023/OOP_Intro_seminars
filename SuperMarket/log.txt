@@ -1,0 +1,74 @@
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Маша не успела поучаствовать в акции и стала обычным клиентом!
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Борис - клиент пришел в магазин 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Борис - клиент добавлен в очередь 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Президент - клиент пришел в магазин 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Президент - клиент добавлен в очередь 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Иван Иваныч [пенсионер] - клиент пришел в магазин 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Иван Иваныч [пенсионер] - клиент добавлен в очередь 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Tax audit - клиент пришел в магазин 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Tax audit - клиент добавлен в очередь 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Петя [участник акции 'Купи дешевле!' #1] - клиент пришел в магазин 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Петя [участник акции 'Купи дешевле!' #1] - клиент добавлен в очередь 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Маша - клиент пришел в магазин 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Маша - клиент добавлен в очередь 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Борис - клиент сделал заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Президент - клиент сделал заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Иван Иваныч [пенсионер] - клиент сделал заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Tax audit - клиент сделал заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Петя [участник акции 'Купи дешевле!' #1] - клиент сделал заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Маша - клиент сделал заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Борис - клиент получил свой заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Президент - клиент получил свой заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Иван Иваныч [пенсионер] - клиент получил свой заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Tax audit - клиент получил свой заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Петя [участник акции 'Купи дешевле!' #1] - клиент получил свой заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Маша - клиент получил свой заказ 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Борис - клиент ушел из очереди 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Президент - клиент ушел из очереди 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Иван Иваныч [пенсионер] - клиент ушел из очереди 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Tax audit - клиент ушел из очереди 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Петя [участник акции 'Купи дешевле!' #1] - клиент ушел из очереди 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Маша - клиент ушел из очереди 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Борис - клиент ушел из магазина 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Президент - клиент ушел из магазина 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Иван Иваныч [пенсионер] - клиент ушел из магазина 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Tax audit - клиент ушел из магазина 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Петя [участник акции 'Купи дешевле!' #1] - клиент ушел из магазина 
+Jul 03, 2023 10:12:05 PM Classes.logMarket logString
+INFO: Маша - клиент ушел из магазина 
