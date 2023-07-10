@@ -13,7 +13,7 @@ public class Student extends Person implements Comparable<Student> {
      * Creating new instance of Student with specified parameters:
      * @param name -> name of the student
      * @param age  -> age of the student
-     * @param age  -> ID of the student
+     * @param id  -> ID of the student
      * @see Student#Student(String, int, int)
      */
     public Student(String name, int age, int id) {
