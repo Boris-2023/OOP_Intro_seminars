@@ -70,7 +70,7 @@ public class ModelFile implements iGetModel {
     public void saveAllToFile(List<Student> students) {
         try (FileWriter fw = new FileWriter(fName, true)) {
             for (Student stud : students) {
-                fw.write(stud.getName() + stud.getAge() + " " + stud.getId() + " ");
+                fw.write(stud.getName() + " " + stud.getAge() + " " + stud.getId() + " ");
                 fw.append("\n");
             }
             fw.flush();
